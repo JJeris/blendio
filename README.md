@@ -1,2 +1,2 @@
 # blendio
-blendio
+Public repository for blendio
